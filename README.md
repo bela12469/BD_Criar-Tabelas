@@ -10,11 +10,11 @@ Implementar Banco de dados SQL
 
 # Usando o Comando TRIGGER 
 
-CREATE TABLE musica(
-id_musica SERIAL PRIMARY key, 
-nome VARCHAR (100) NOT NULL,
-duracao INT NOT NULL,
-)
+//CREATE TABLE musica(
+//id_musica SERIAL PRIMARY key, 
+//nome VARCHAR (100) NOT NULL,
+//duracao INT NOT NULL,
+//)
 
 
 CREATE TRIGGER inserir_dados
