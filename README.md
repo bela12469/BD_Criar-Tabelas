@@ -6,3 +6,6 @@ Implementar Banco de dados SQL
 **Definir atributos
 **Inserir dados na Tabela
 **Consultar tabela
+
+
+# Usando o Comando TRIGGER 
